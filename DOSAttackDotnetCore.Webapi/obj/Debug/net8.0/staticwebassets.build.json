@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "sErTx8VjW1RYZ4KQel48r1fLqhn+AHap05ZiBx50/nQ=",
+  "Source": "DOSAttackDotnetCore.Webapi",
+  "BasePath": "_content/DOSAttackDotnetCore.Webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DOSAttackDotnetCore.Webapi\\wwwroot",
+      "Source": "DOSAttackDotnetCore.Webapi",
+      "ContentRoot": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\",
+      "BasePath": "_content/DOSAttackDotnetCore.Webapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\uploads\\269628f7-d3d6-4968-9943-2ce58ac26e6d.jpg",
+      "SourceId": "DOSAttackDotnetCore.Webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\",
+      "BasePath": "_content/DOSAttackDotnetCore.Webapi",
+      "RelativePath": "uploads/269628f7-d3d6-4968-9943-2ce58ac26e6d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\269628f7-d3d6-4968-9943-2ce58ac26e6d.jpg"
+    },
+    {
+      "Identity": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\uploads\\696efbe3-9ef3-496f-89c7-caebef09d5b1.jpg",
+      "SourceId": "DOSAttackDotnetCore.Webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\",
+      "BasePath": "_content/DOSAttackDotnetCore.Webapi",
+      "RelativePath": "uploads/696efbe3-9ef3-496f-89c7-caebef09d5b1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\696efbe3-9ef3-496f-89c7-caebef09d5b1.jpg"
+    }
+  ]
+}

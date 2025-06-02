@@ -1,0 +1,44 @@
+2025-06-02 15:29:11.001 +06:00 [INF] Now listening on: https://localhost:7149
+2025-06-02 15:29:11.019 +06:00 [INF] Now listening on: http://localhost:5164
+2025-06-02 15:29:11.021 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-02 15:29:11.021 +06:00 [INF] Hosting environment: Development
+2025-06-02 15:29:11.021 +06:00 [INF] Content root path: D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.Webapi
+2025-06-02 15:29:14.075 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/index.html - null null
+2025-06-02 15:29:14.288 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/index.html - 200 null text/html;charset=utf-8 221.6599ms
+2025-06-02 15:29:14.311 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-02 15:29:14.318 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/_framework/aspnetcore-browser-refresh.js - 200 13787 application/javascript; charset=utf-8 6.8276ms
+2025-06-02 15:29:14.327 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/_vs/browserLink - null null
+2025-06-02 15:29:14.377 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/_vs/browserLink - 200 null text/javascript; charset=UTF-8 49.903ms
+2025-06-02 15:29:14.613 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/v1/swagger.json - null null
+2025-06-02 15:29:14.697 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 84.5377ms
+2025-06-02 15:30:21.277 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:7149/api/product/createLimitFileSize - multipart/form-data; boundary="f22e69ab-7961-4336-a40d-461c1eba1da7" 6513450
+2025-06-02 15:30:21.362 +06:00 [INF] Executing endpoint 'DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi)'
+2025-06-02 15:30:21.401 +06:00 [INF] Route matched with {action = "createLimitFileSize", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] createLimitFileSize(DOSAttackDotnetCore.Webapi.DTOs.ProductDto) on controller DOSAttackDotnetCore.Webapi.Controllers.ProductController (DOSAttackDotnetCore.Webapi).
+2025-06-02 15:30:21.668 +06:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-06-02 15:30:21.705 +06:00 [INF] Executed action DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi) in 300.7554ms
+2025-06-02 15:30:21.706 +06:00 [INF] Executed endpoint 'DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi)'
+2025-06-02 15:30:21.712 +06:00 [INF] Request finished HTTP/1.1 POST https://localhost:7149/api/product/createLimitFileSize - 400 null application/problem+json; charset=utf-8 435.1091ms
+2025-06-02 15:30:21.713 +06:00 [INF] Connection id "0HND1MVND7S8R", Request id "0HND1MVND7S8R:00000001": the application completed without reading the entire request body.
+2025-06-02 15:31:05.503 +06:00 [INF] Now listening on: https://localhost:7149
+2025-06-02 15:31:05.531 +06:00 [INF] Now listening on: http://localhost:5164
+2025-06-02 15:31:05.532 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-02 15:31:05.533 +06:00 [INF] Hosting environment: Development
+2025-06-02 15:31:05.533 +06:00 [INF] Content root path: D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.Webapi
+2025-06-02 15:31:08.942 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/index.html - null null
+2025-06-02 15:31:09.171 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/index.html - 200 null text/html;charset=utf-8 235.1038ms
+2025-06-02 15:31:09.180 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-02 15:31:09.181 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/_vs/browserLink - null null
+2025-06-02 15:31:09.186 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/_framework/aspnetcore-browser-refresh.js - 200 13787 application/javascript; charset=utf-8 6.4966ms
+2025-06-02 15:31:09.222 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.262ms
+2025-06-02 15:31:09.266 +06:00 [INF] Request starting HTTP/2 GET https://localhost:7149/swagger/v1/swagger.json - null null
+2025-06-02 15:31:09.347 +06:00 [INF] Request finished HTTP/2 GET https://localhost:7149/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 80.224ms
+2025-06-02 15:31:29.896 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:7149/api/product/createLimitFileSize - multipart/form-data; boundary="a351cc25-4de8-4050-8f21-c8f194483373" 1409
+2025-06-02 15:31:29.979 +06:00 [INF] Executing endpoint 'DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi)'
+2025-06-02 15:31:30.054 +06:00 [INF] Route matched with {action = "createLimitFileSize", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] createLimitFileSize(DOSAttackDotnetCore.Webapi.DTOs.ProductDto) on controller DOSAttackDotnetCore.Webapi.Controllers.ProductController (DOSAttackDotnetCore.Webapi).
+2025-06-02 15:31:30.193 +06:00 [INF] Executing action method DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi) - Validation state: "Valid"
+2025-06-02 15:31:47.069 +06:00 [ERR] ❌ Invalid extension: .html
+2025-06-02 15:31:47.072 +06:00 [INF] Executed action method DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi), returned result Microsoft.AspNetCore.Mvc.BadRequestObjectResult in 16875.9737ms.
+2025-06-02 15:31:47.076 +06:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-06-02 15:31:47.081 +06:00 [INF] Executed action DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi) in 17024.2425ms
+2025-06-02 15:31:47.081 +06:00 [INF] Executed endpoint 'DOSAttackDotnetCore.Webapi.Controllers.ProductController.createLimitFileSize (DOSAttackDotnetCore.Webapi)'
+2025-06-02 15:31:47.082 +06:00 [INF] Request finished HTTP/1.1 POST https://localhost:7149/api/product/createLimitFileSize - 400 null text/plain; charset=utf-8 17185.415ms

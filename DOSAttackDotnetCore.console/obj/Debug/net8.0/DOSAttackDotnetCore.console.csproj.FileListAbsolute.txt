@@ -1,0 +1,14 @@
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\bin\Debug\net8.0\DOSAttackDotnetCore.console.exe
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\bin\Debug\net8.0\DOSAttackDotnetCore.console.deps.json
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\bin\Debug\net8.0\DOSAttackDotnetCore.console.runtimeconfig.json
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\bin\Debug\net8.0\DOSAttackDotnetCore.console.dll
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\bin\Debug\net8.0\DOSAttackDotnetCore.console.pdb
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.AssemblyInfoInputs.cache
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.AssemblyInfo.cs
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.csproj.CoreCompileInputs.cache
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.dll
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\refint\DOSAttackDotnetCore.console.dll
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.pdb
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\DOSAttackDotnetCore.console.genruntimeconfig.cache
+D:\Core web app\DOSAttackDotnetCore\DOSAttackDotnetCore\DOSAttackDotnetCore.console\obj\Debug\net8.0\ref\DOSAttackDotnetCore.console.dll

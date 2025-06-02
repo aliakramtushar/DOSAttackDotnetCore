@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\uploads\\269628f7-d3d6-4968-9943-2ce58ac26e6d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\269628f7-d3d6-4968-9943-2ce58ac26e6d.jpg"
+    },
+    {
+      "Id": "D:\\Core web app\\DOSAttackDotnetCore\\DOSAttackDotnetCore\\DOSAttackDotnetCore.Webapi\\wwwroot\\uploads\\696efbe3-9ef3-496f-89c7-caebef09d5b1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\696efbe3-9ef3-496f-89c7-caebef09d5b1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DOSAttackDotnetCore.Webapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DOSAttackDotnetCore.Webapi.props",
+      "PackagePath": "build\\DOSAttackDotnetCore.Webapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DOSAttackDotnetCore.Webapi.props",
+      "PackagePath": "buildMultiTargeting\\DOSAttackDotnetCore.Webapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DOSAttackDotnetCore.Webapi.props",
+      "PackagePath": "buildTransitive\\DOSAttackDotnetCore.Webapi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
