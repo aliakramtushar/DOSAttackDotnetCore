@@ -1,0 +1,51 @@
+# Build output folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+# NuGet fallback folder
+packages/
+
+# ASP.NET Core files
+appsettings.Development.json
+
+# Rider IDE files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Resharper files
+_ReSharper*/
+
+# Publish folder
+publish/
+
+# Coverage files
+coverage/
+
+# Test results
+TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other
+*.bak
+*.swp
