@@ -20,8 +20,6 @@ obj/
 # NuGet fallback folder
 packages/
 
-# ASP.NET Core files
-appsettings.Development.json
 
 # Rider IDE files
 .idea/
